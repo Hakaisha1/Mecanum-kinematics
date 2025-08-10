@@ -1,2 +1,1 @@
-# Minimal requirements for basic functionality
 numpy>=1.21.0

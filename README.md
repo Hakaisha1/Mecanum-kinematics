@@ -62,3 +62,7 @@ def inverse_kinematic(vx, vy, omega_z, r, L, W):
 ```bash
 python main.py
 ```
+
+### Todo
+Add another language
+- C++
